@@ -6,7 +6,6 @@ body {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
   margin-bottom: 50px;
-  
 }
 section {
   height: 650px;
@@ -56,7 +55,7 @@ h2 {
 }
 .half-widthh img {
   width: 80%;
-  margin-top:30px;
+  margin-top: 30px;
 }
 .margind {
   margin-top: 150px;
@@ -78,8 +77,6 @@ h2 {
   width: 25%;
   float: left;
   margin-left: 100px;
-  
-
 }
 footer {
   text-align: center;
